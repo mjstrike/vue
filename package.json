@@ -1,5 +1,5 @@
 {
-  "name": "test1",
+  "name": "vuetest",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animejs": "^3.2.1",
     "bootstrap": "^5.2.3",
     "vue": "^3.2.45"
   },
